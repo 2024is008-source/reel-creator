@@ -1,0 +1,4 @@
+[{"capability":"code","source":"archive","outcome":"migrate","status":"done","next_action":"none"},
+{"capability":"records","source":"browser IndexedDB (idb-keyval)","outcome":"keep (local per-browser)","status":"n/a","next_action":"none"},
+{"capability":"auth","source":"none","outcome":"none","status":"n/a","next_action":"none"},
+{"capability":"ai","source":"Lovable AI Gateway","outcome":"preserve","status":"pending-verify","next_action":"generate a video in preview"}]
